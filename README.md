@@ -4,7 +4,7 @@ Hi 👋 My name is Vivek Gupta
 Front-end Developer 
 ------------------------  
 
-I'm a third year CSIT(IET) student and a full-stack developer.
+I'm a third year CSIT(IET) student and a front-end developer.
    
 * 🌍  I'm based in **India**.
 * ✉️  You can contact me at [vivekgupta4115@gmail.com](mailto:vivekgupta4115@gmail.com)
