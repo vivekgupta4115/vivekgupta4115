@@ -27,9 +27,8 @@ I'm a third year CSIT(IET) student and a full-stack developer.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/vivekgupta4115" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vivek_gupta_7329" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vivek-gupta-67b183222" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Viveklt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
----
-
+<p align="left"> <a href="https://www.github.com/vivekgupta4115" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vivek_gupta_7329" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vivek-gupta-67b183222" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/VivekIt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+--
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -42,3 +41,7 @@ I'm a third year CSIT(IET) student and a full-stack developer.
 
 
 ![](https://komarev.com/ghpvc/?username=vivekgupta4115)
+
+
+### Snake eating my contribution graph...
+![snake gif](https://github.com/vivekgupta4115/vivekgupta4115/blob/output/github-contribution-grid-snake.gif)
